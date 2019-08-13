@@ -6,3 +6,7 @@
 	path = Shrine
 	url = https://github.com/minexew/Shrine.git
 	branch = master
+[submodule "ShrineTextMode"]
+	path = ShrineTextMode
+	url = https://github.com/tosrevive/ShrineTextMode.git
+	branch = master
