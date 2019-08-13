@@ -1,0 +1,8 @@
+[submodule "erythros"]
+	path = erythros
+	url = https://github.com/obecebo/erythros.git
+	branch = master
+[submodule "Shrine"]
+	path = Shrine
+	url = https://github.com/minexew/Shrine.git
+	branch = master
