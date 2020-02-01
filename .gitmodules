@@ -1,7 +1,3 @@
-[submodule "erythros"]
-	path = erythros
-	url = https://github.com/obecebo/erythros.git
-	branch = master
 [submodule "Shrine"]
 	path = Shrine
 	url = https://github.com/minexew/Shrine.git
@@ -9,4 +5,16 @@
 [submodule "ShrineTextMode"]
 	path = ShrineTextMode
 	url = https://github.com/tosrevive/ShrineTextMode.git
+	branch = master
+[submodule "TempleOS-EE"]
+	path = TempleOS-EE
+	url = https://github.com/Slapparoo/TempleOS-EE.git
+	branch = master
+[submodule "TempleOS-Unofficial"]
+	path = TempleOS-Unofficial
+	url = https://github.com/tosrevive/TempleOS-Unofficial.git
+	branch = master
+[submodule "ZenithOS"]
+	path = ZenithOS
+	url = https://github.com/xmm15/ZenithOS.git
 	branch = master
